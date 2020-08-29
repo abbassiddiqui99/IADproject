@@ -1,6 +1,7 @@
 export default {
   products: [
     {
+      _id: "1",
       name: "slim Shirt",
       image: "/images/4.jpg",
       brand: "Nike",
@@ -8,6 +9,7 @@ export default {
       numReviews: 5,
     },
     {
+      _id: "2",
       name: "slim pant",
       image: "/images/2.jpg",
       price: 63,
@@ -16,6 +18,7 @@ export default {
       numReviews: 5,
     },
     {
+      _id: "3",
       name: "slim trouser",
       image: "/images/3.jpg",
       price: 65,
@@ -24,6 +27,7 @@ export default {
       numReviews: 5,
     },
     {
+      _id: "4",
       name: "slim asdf",
       image: "/images/5.jpg",
       price: 65,
