@@ -4,6 +4,7 @@ export default {
       _id: "1",
       name: "slim Shirt",
       image: "/images/4.jpg",
+      price: 63,
       brand: "Nike",
       rating: 3.5,
       numReviews: 5,

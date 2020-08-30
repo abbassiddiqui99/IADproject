@@ -1,0 +1,22 @@
+/* Product Details */
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.details-image {
+  max-height: 32rem;
+  max-width: 32rem;
+  flex: 2 1 60rem;
+}
+.product-image {
+  width: 34rem;
+  height: 34rem;
+}
+.details-info {
+  flex: 1 1 30rem;
+}
+.details-action {
+  flex: 1 1 60rem;
+}
