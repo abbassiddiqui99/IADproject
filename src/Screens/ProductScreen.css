@@ -8,6 +8,7 @@
 }
 .details-image {
   flex: 2 1 60rem;
+  text-align: center;
 }
 .product-image {
   width: 34rem;
